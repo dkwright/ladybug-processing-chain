@@ -1,0 +1,3 @@
+* Create an account with Teledyne FLIR
+* Download the Ladybug SDK software https://www.flir.com/support-center/iis/machine-vision/downloads/ladybug-sdk-and-firmware/ladybug-sdk--download-files/
+* Install Ladybug SDK software
